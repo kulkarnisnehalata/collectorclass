@@ -1,0 +1,1 @@
+# collectorclass
